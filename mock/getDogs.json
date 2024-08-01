@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Affenpinscher"
+    },
+    {
+      "id": 2,
+      "name": "Afghan Hound"
+    },
+    {
+      "id": 3,
+      "name": "African Hunting Dog"
+    },
+    {
+      "id": 4,
+      "name": "Airedale Terrier"
+    },
+    {
+      "id": 5,
+      "name": "Akbash Dog"
+    },
+    {
+      "id": 6,
+      "name": "Akita"
+    },
+    {
+      "id": 7,
+      "name": "Alapaha Blue Blood Bulldog"
+    },
+    {
+      "id": 8,
+      "name": "Alaskan Husky"
+    },
+    {
+      "id": 9,
+      "name": "Alaskan Malamute"
+    },
+    {
+      "id": 10,
+      "name": "American Bulldog"
+    }
+  ]
